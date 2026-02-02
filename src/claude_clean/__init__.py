@@ -86,6 +86,7 @@ def main():
         "tasks",
         "shell-snapshots",
         "session-env",
+        "plans"
     ]
 
     print("Claude Code Cleaner")
