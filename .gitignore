@@ -44,3 +44,4 @@ htmlcov/
 *.manifest
 *.spec
 nul
+.claude/settings.local.json
