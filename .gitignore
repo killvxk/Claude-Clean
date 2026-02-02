@@ -43,3 +43,4 @@ htmlcov/
 # Build
 *.manifest
 *.spec
+nul
