@@ -28,3 +28,5 @@ claude-clean
 - `~/.claude/tasks` - Task data
 - `~/.claude/shell-snapshots` - Shell snapshots
 - `~/.claude/session-env` - Session environment
+- `~/.claude/plans` - Plan data
+- `~/.claude/teams` - Team data
