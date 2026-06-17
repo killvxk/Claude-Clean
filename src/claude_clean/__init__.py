@@ -87,6 +87,11 @@ def main():
         "shell-snapshots",
         "session-env",
         "plans",
+        "backups",
+        "cache",
+        "tasks",
+        "sessions",
+        "paste-cache",
         "teams"
     ]
 
